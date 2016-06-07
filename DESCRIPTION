@@ -1,0 +1,9 @@
+Package: rNCIGDC
+Title: What the Package Does (one line, title case)
+Version: 0.1.0
+Authors@R: person("Sean", "Davis", email = "seandavi@gmail.com", role = c("aut", "cre"))
+Description: Interface with the NCI Genomic Data Commons
+Depends: R (>= 3.3.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
